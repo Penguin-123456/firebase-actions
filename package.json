@@ -11,5 +11,8 @@
     "url": "firebase-actions"
   },
   "author": "Penguin-123456",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^13.5.0"
+  }
 }
